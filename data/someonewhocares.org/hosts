@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 21 Jan 2024 at 21:19:52 GMT
+# Last updated: Wed, 14 Feb 2024 at 02:35:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1628,6 +1628,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 account-review.com
 0.0.0.0 accounts.secure-ua.website
 0.0.0.0 accounts.ukr.net.ssl2.in
+0.0.0.0 accrogers-overview.com
 0.0.0.0 acessoires-electromenager.fr
 0.0.0.0 acglgoa.com
 0.0.0.0 acmen.fr
@@ -1852,6 +1853,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
+0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
 0.0.0.0 carac-terres.fr
@@ -1990,6 +1992,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 deposit-cra2023.com
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
+0.0.0.0 details-update.com
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
@@ -2056,6 +2059,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 espaceagazines.fr
 0.0.0.0 espub.fr
 0.0.0.0 et-1nt3rc.com
+0.0.0.0 et-interac.etransfers1.com
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
@@ -2201,6 +2205,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hcg82f2b.com
+0.0.0.0 healpublic.best
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
 0.0.0.0 helpmedb.com
@@ -2615,6 +2620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 neowordprss.fr
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
+0.0.0.0 netflixca-updateprofilehelp.com
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 newouest.fr
 0.0.0.0 newsmagic.net
@@ -2754,6 +2760,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 postecan-canpost.confrm942.link
 0.0.0.0 postecan-canpost.updt491.link
 0.0.0.0 postis.fr
+0.0.0.0 poundporter.best
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
 0.0.0.0 predictiondisplay.com
@@ -2807,6 +2814,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr
 0.0.0.0 reductions-impots.fr
+0.0.0.0 refund-int3rac.com
 0.0.0.0 regclassboard.com
 0.0.0.0 reliezvous.fr
 0.0.0.0 renov-landes.fr
@@ -2869,6 +2877,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 secretosdelagua.fr
 0.0.0.0 secure-accept-e-transfer-interac.info
 0.0.0.0 secure-fidosolutions.com
+0.0.0.0 secure-royaibnk.com
+0.0.0.0 securedeposit-et.com
 0.0.0.0 securielite.com
 0.0.0.0 securityscan.us
 0.0.0.0 seebox.fr
@@ -2908,6 +2918,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 snscf.fr
 0.0.0.0 societegernerale.fr
 0.0.0.0 societergenerale.fr
+0.0.0.0 sofaglobal.best
 0.0.0.0 software-updates.co
 0.0.0.0 software-wenc.co.cc
 0.0.0.0 soidog.fr
@@ -3028,6 +3039,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 turfomani.fr
 0.0.0.0 tvshowslist.com
 0.0.0.0 tweetdeck.fr
+0.0.0.0 twitchindoor.best
 0.0.0.0 twitpic.fr
 0.0.0.0 tx.micro.net.pk
 0.0.0.0 tx2returnhome.com
