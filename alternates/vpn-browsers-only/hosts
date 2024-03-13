@@ -1,10 +1,14 @@
 # browsers
+
 0.0.0.0 yandex.ru
 0.0.0.0 yandex.com
 0.0.0.0 yandex.ee
 0.0.0.0 yandex.eu
 
+0.0.0.0 yahoo.com
+
 # proxies
+
 0.0.0.0 www.croxyproxy.com
 0.0.0.0 www.blockaway.net
 0.0.0.0 hide.me
@@ -12,6 +16,7 @@
 0.0.0.0 proxyium.com
 
 # vpns
-0.0.0.0 nordvpn.com 
+
+0.0.0.0 nordvpn.com
 0.0.0.0 www.tunnelbear.com
 0.0.0.0 protonvpn.com
